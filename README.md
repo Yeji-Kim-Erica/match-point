@@ -34,7 +34,7 @@
 
 1.  레포지토리를 복제(Clone)합니다.
     ```sh
-    git clone [https://github.com/Yeji-Kim-Erica/match-point.git](https://github.com/Yeji-Kim-Erica/match-point.git)
+    git clone https://github.com/Yeji-Kim-Erica/match-point.git
     ```
 2.  프로젝트 폴더로 이동합니다.
     ```sh
